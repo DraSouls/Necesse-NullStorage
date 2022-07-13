@@ -1,0 +1,18 @@
+
+[item]
+drs_nullpouch=Nullpouch
+
+[object]
+drs_nullbox=Nullbox
+
+[itemtooltip]
+// Nullbox
+drs_nullbox_tip1=Trashes excess items if this has full stack(s) of that item
+drs_nullbox_tip2=Otherwise, keeps amounts of item until stack limit
+drs_nullbox_tip3=Settlers won't fill empty slots in this container,
+drs_nullbox_tip4=but will drop off items this container has, and will trash excess too
+// Nullpouch
+drs_nullpouch_tip1=Trashes excess items if this has full stack(s) of that item
+drs_nullpouch_tip2=Otherwise, keeps amounts of item until stack limit.
+drs_nullpouch_tip3=Items picked up that this pouch contains will end up in this pouch.
+drs_nullpouch_unk0=For all purposes, it's a magical trash bag.
