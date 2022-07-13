@@ -10,7 +10,7 @@ def modInfo = [
     modVersion     : "1.0.0",
     gameVersion    : "0.21.23",
     modDescription : "Adds the Nullbox and Nullpouch which will delete excess items if stacks of it inside are full.",
-    author         : "Lyrthras",
+    author         : "Lyrthras; Nexrem",
     clientside     : false,
     modDependencies         : [],
     modOptionalDependencies : [],
